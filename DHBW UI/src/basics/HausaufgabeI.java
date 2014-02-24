@@ -16,7 +16,7 @@ import javax.swing.border.BevelBorder;
 public class HausaufgabeI {
 
 	public HausaufgabeI() {
-		// TODO Auto-generated constructor stub
+	
 	}
 	
 	public static void main(String[] args) {
